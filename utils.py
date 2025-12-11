@@ -1,7 +1,3 @@
-"""
-General utilities for the Multi-Modal Travel Assistant.
-Includes session memory management, token counting, and message summarization.
-"""
 from typing import Dict, List, Optional
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage, BaseMessage
 

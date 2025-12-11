@@ -1,7 +1,3 @@
-"""
-Logging configuration for the Travel Assistant application.
-Provides structured logging with separate handlers for general logs and LLM responses.
-"""
 import logging
 import os
 from datetime import datetime
