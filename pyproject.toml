@@ -1,5 +1,5 @@
 [project]
-name = "digialpha-task"
+name = "travel-planner"
 version = "0.1.0"
 description = "Multi-Modal Travel Assistant with LangGraph and Streamlit"
 readme = "README.md"
